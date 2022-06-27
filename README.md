@@ -25,8 +25,10 @@ Repeat 3 and 4 until we get the solved puzzle.
 Calculate the time taken to solve the sudoku.
 
 ## Program:
+```
 Developed by: A Graham stanes
 Register  No:  212220230020
+```
 ```python
 import time
 
